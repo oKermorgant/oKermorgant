@@ -1,3 +1,5 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oKermorgant&show_icons=true&theme=transparent\&include_all_commits=true\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oKermorgant&size_weight=0.5&count_weight=0.5)
+
 <!--### Olivier Kermorgant
 
 ---------->
